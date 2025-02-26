@@ -1,0 +1,35 @@
+// weather icons
+$spritePath: url('/weather_icons_sprite.jpg');
+$sunnyIcon: $spritePath -40px -20px;
+$cloudyIcon: $spritePath -189px -20px;
+$partlyCloudyIcon: $spritePath -328px -20px;
+$rainyIcon: $spritePath -40px -160px;
+$clearSkyNightIcon: $spritePath -40px -310px;
+$cloudyNightIcon: $spritePath -189px -310px;
+$rainyNightIcon: $spritePath -189px -310px;
+
+
+// Переменные для кнопки
+$button-bg-color: #3498db; // Цвет фона кнопки
+$button-text-color: #ffffff; // Цвет текста кнопки
+$button-padding: 10px 20px; // Отступы внутри кнопки
+$button-border-radius: 5px; // Скругление углов кнопки
+$button-border: none; // Граница кнопки
+$button-font-size: 16px; // Размер шрифта
+$button-hover-bg-color: rgb(28, 116, 175);
+
+// Стили для кнопки
+.button {
+  background-color: $button-bg-color;
+  color: $button-text-color;
+  padding: $button-padding;
+  border-radius: $button-border-radius;
+  border: $button-border;
+  font-size: $button-font-size;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: $button-hover-bg-color;
+  }
+}

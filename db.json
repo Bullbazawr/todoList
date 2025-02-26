@@ -1,0 +1,236 @@
+{
+  "moonday": [
+    {
+      "id": "1740403658397",
+      "startTime": "07:35",
+      "endTime": "07:40",
+      "title": "Wash Up",
+      "completed": false
+    },
+    {
+      "id": "1740403684127",
+      "startTime": "07:40",
+      "endTime": "07:50",
+      "title": "Make Coffe",
+      "completed": false
+    },
+    {
+      "id": "1740403714954",
+      "startTime": "08:00",
+      "endTime": "11:00",
+      "title": "Study JavaScript",
+      "completed": false
+    },
+    {
+      "id": "1740403859604",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "title": "Walk",
+      "completed": false
+    },
+    {
+      "id": "1740403888914",
+      "startTime": "13:00",
+      "endTime": "13:30",
+      "title": "Go to the supermarket",
+      "completed": false
+    },
+    {
+      "id": "1740403939984",
+      "startTime": "13:30",
+      "endTime": "14:30",
+      "title": "Lunch",
+      "completed": false
+    },
+    {
+      "id": "1740404010957",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "title": "Relax",
+      "completed": false
+    },
+    {
+      "id": "1740404052777",
+      "startTime": "16:00",
+      "endTime": "16:30",
+      "title": "Study Spanish",
+      "completed": false
+    },
+    {
+      "id": "1740404089293",
+      "startTime": "16:30",
+      "endTime": "17:00",
+      "title": "Study English",
+      "completed": false
+    },
+    {
+      "id": "1740404152445",
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "title": "Study JavaScript",
+      "completed": false
+    },
+    {
+      "id": "1740404183019",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "title": "Make diner",
+      "completed": false
+    },
+    {
+      "id": "1740404198014",
+      "startTime": "20:00",
+      "endTime": "20:30",
+      "title": "Diner",
+      "completed": false
+    },
+    {
+      "id": "1740404320414",
+      "startTime": "20:30",
+      "endTime": "23:00",
+      "title": "Play VideoGames",
+      "completed": false
+    },
+    {
+      "id": "1740404337320",
+      "startTime": "23:00",
+      "endTime": "23:00",
+      "title": "Sleep",
+      "completed": false
+    },
+    {
+      "id": "1740425901674",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "title": "WorkOut",
+      "completed": false
+    },
+    {
+      "id": "1740426828557",
+      "startTime": "07:30",
+      "endTime": "07:35",
+      "title": "wake up",
+      "completed": false
+    }
+  ],
+  "tuesday": [
+    {
+      "id": "1740485098440",
+      "startTime": "07:35",
+      "endTime": "07:40",
+      "title": "Wash Up",
+      "completed": false
+    },
+    {
+      "id": "1740485119407",
+      "startTime": "07:40",
+      "endTime": "07:50",
+      "title": "Make Coffe",
+      "completed": false
+    },
+    {
+      "id": "1740485154326",
+      "startTime": "08:00",
+      "endTime": "11:00",
+      "title": "Study JavaScript",
+      "completed": false
+    },
+    {
+      "id": "1740485176318",
+      "startTime": "11:00",
+      "endTime": "12:30",
+      "title": "WorkOut",
+      "completed": false
+    },
+    {
+      "id": "1740486832103",
+      "startTime": "12:30",
+      "endTime": "13:30",
+      "title": "Walk",
+      "completed": false
+    },
+    {
+      "id": "1740486863894",
+      "startTime": "13:30",
+      "endTime": "14:00",
+      "title": "Go to TheSupermarkek",
+      "completed": false
+    },
+    {
+      "id": "1740494374481",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "title": "lunch",
+      "completed": false
+    },
+    {
+      "id": "1740494390151",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "title": "Relax",
+      "completed": false
+    },
+    {
+      "id": "1740494408833",
+      "startTime": "16:00",
+      "endTime": "16:30",
+      "title": "Study Spanish",
+      "completed": false
+    },
+    {
+      "id": "1740494430992",
+      "startTime": "16:30",
+      "endTime": "17:00",
+      "title": "Study English",
+      "completed": false
+    },
+    {
+      "id": "1740494452089",
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "title": "Stuy JavaScript",
+      "completed": false
+    },
+    {
+      "id": "1740494472879",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "title": "Diner",
+      "completed": false
+    },
+    {
+      "id": "1740494490133",
+      "startTime": "20:00",
+      "endTime": "23:00",
+      "title": "Relax",
+      "completed": false
+    },
+    {
+      "id": "1740494507304",
+      "startTime": "23:00",
+      "endTime": "23:00",
+      "title": "Sleep",
+      "completed": false
+    },
+    {
+      "id": "1740494824267",
+      "startTime": "07:30",
+      "endTime": "07:35",
+      "title": "Wake Up",
+      "completed": false
+    }
+  ],
+  "wednesday": [],
+  "thursday": [],
+  "friday": [],
+  "saturday": [
+    {
+      "id": "1740242135749",
+      "startTime": "7:30",
+      "endTime": "7:35",
+      "title": "Wake Up",
+      "completed": false
+    }
+  ],
+  "sunday": []
+}

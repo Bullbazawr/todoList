@@ -1,0 +1,51 @@
+@use '../../utils/variables' as v;
+
+.todoCreatorContainer {
+    height: 380px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 6%;
+    padding: 1rem;
+}
+
+.todoCreatorTitle {
+    margin-bottom: 1rem;
+    font-weight: 600;
+    font-size: 3rem;
+}
+
+.taskTitleInput {
+    font-size: 2rem;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.setTimeContainer {
+    font-size: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+
+    .timeInput {
+        font-size: 2rem;
+        width: 50%;
+    }
+}
+
+.createTodoButton {
+    font-size: 2rem;
+    width: 100%;
+    margin-top: 1rem;
+    background-color: v.$button-bg-color;
+    color: v.$button-text-color;
+    padding: v.$button-padding;
+    border-radius: v.$button-border-radius;
+    border: v.$button-border;
+    font-size: v.$button-font-size;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+
+    &:hover {
+        background-color: v.$button-hover-bg-color;
+    }
+}
