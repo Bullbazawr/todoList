@@ -32,7 +32,7 @@
 
 1. Склонируйте репозиторий:
   
-   git clone https://github.com/ваш-username/ваш-репозиторий.git
+   git clone https://github.com/Bullbazawr/todoList.git
    
 2. Перейдите в папку проекта:
   
