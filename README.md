@@ -26,14 +26,13 @@
 
 ## Скриншот приложения
 
-![Снимок экрана 2025-02-25 172536](https://github.com/user-attachments/assets/3553c97e-e677-42f2-8e66-230522aea957)
-
+![Снимок экрана 2025-02-25 172536](https://github.com/user-attachments/assets/df8d8662-1e6b-4a00-a2b9-3bb2fb72bd81)
 
 ## Как запустить проект
 
 1. Склонируйте репозиторий:
   
-   git clone https://github.com/ваш-username/ваш-репозиторий.git
+   git clone https://github.com/Bullbazawr/todoList.git
    
 2. Перейдите в папку проекта:
   
