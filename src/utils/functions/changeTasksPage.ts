@@ -8,7 +8,7 @@ export function prevTasksPage(page: number) {
 
 export function nextTasksPage(page: number, totalPages: number) {
     if (page + 1 > totalPages) {
-        return totalPages
+        return page
     }
     return page + 1
 }

@@ -9,7 +9,6 @@ import { TodoCreator } from '../TodoCreator/TodoCreator'
 
 
 export function App() {
-  const nextTasksPageButtonElement = document.querySelector('.nextButton')
   const queryClient = useQueryClient()
   const [page, setPage] = useState(1)
   const { data: todoItems } = useAllTodos(page)
@@ -28,13 +27,6 @@ export function App() {
       setTimeout(() => {
         queryClient.invalidateQueries()
       }, 100)
-    }
-  }
-
-
-  if (pages === 0) {
-    if (nextTasksPageButtonElement) {
-      nextTasksPageButtonElement.setAttribute('disabled', 'disabled')
     }
   }
 
