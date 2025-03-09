@@ -9,7 +9,7 @@ import { TodoCreator } from '../TodoCreator/TodoCreator'
 
 
 export function App() {
-  // const nextTasksPageButtonElement = document.querySelector('.nextButton')
+  const nextTasksPageButtonElement = document.querySelector('.nextButton')
   const queryClient = useQueryClient()
   const [page, setPage] = useState(1)
   const { data: todoItems } = useAllTodos(page)
@@ -32,11 +32,11 @@ export function App() {
   }
 
 
-  // if (pages === 0) {
-  //   if (nextTasksPageButtonElement) {
-  //     nextTasksPageButtonElement.setAttribute('disabled', 'disabled')
-  //   }
-  // }
+  if (pages === 0) {
+    if (nextTasksPageButtonElement) {
+      nextTasksPageButtonElement.setAttribute('disabled', 'disabled')
+    }
+  }
 
   return (
     <div className='homePageContainer'>
